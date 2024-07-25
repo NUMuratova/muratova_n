@@ -23,5 +23,3 @@ public class Main {
         System.out.println("a  *  b = " + (a  *  b));
     }
 }
-
-
